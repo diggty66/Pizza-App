@@ -1,0 +1,32 @@
+.root{
+	-fx-background-color: #F5DEB3;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+.button {
+  	-fx-background-color: #BDB76B;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+.check-box{
+	-fx-background-color: #FFF8DC;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+.scroll-bar{
+	-fx-background-color: #FFF8DC;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+.radio-button{
+	-fx-background-color: #FFF8DC;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+.combo-box {
+  	-fx-background-color: #BDB76B;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+.list-view {
+  	-fx-background-color: #BDB76B;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
+.list-view {
+  	-fx-background-color: #BDB76B;
+	-fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+}
